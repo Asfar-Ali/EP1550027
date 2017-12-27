@@ -1,0 +1,11 @@
+.bgcolor{
+    background-color: black;
+    color: white;
+    font-size: 24px;
+    margin-top: 18px;
+    padding-top: 5px;
+}
+.det{
+    padding: 0 auto;
+    margin: 0 auto
+}
